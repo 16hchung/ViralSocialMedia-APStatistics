@@ -10,3 +10,6 @@ Access Token:
 Increase scope:
 1. https://api.instagram.com/oauth/authorize/?client_id=CLIENTID&redirect_uri=REDIRECT-URI&response_type=code&scope=public_content
 '''
+
+# https://api.instagram.com/v1/tags/icebucket?access_token=ACCESS_TOKEN
+
